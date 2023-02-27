@@ -10,25 +10,30 @@ body {
   }
 
   h1 {
-      font-size: 50px;
+      font-size: 60px;
       color: black;
-      margin-bottom: 10px;
+      margin-bottom: 5px;
+      padding-top: 50px;
 
   }
   h2 {
-      font-size: 24px;
+      font-size: 25px;
       text-transform: uppercase;
-      color: white;
+      color: darkorange;
       font-weight: 600;
       margin-bottom: 30px;
   }
   h4 {
-      font-size: 19px;
+      font-size: 30px;
       line-height: 1.375em;
       color: white;
       font-weight: 400;
       margin-bottom: 30px;
   }  
+  h5 {
+      font-size: 30px;
+      color: black;
+  }
   .jumbotron {
       background-color: darkorange;
       color: black;
